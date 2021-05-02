@@ -31,6 +31,13 @@
 
 - ⚡ Fun fact: If you torture the data good enough it will confess!!
 
+### Tutorials Repos
+- [Toxic comments classification using Bert](https://github.com/letthedataconfess/Toxic-comments-classification)
+- [Image processing using open-cv](https://github.com/letthedataconfess/Image-Pre-processing-using-OpenCV)
+- [Sentiment analysis](https://github.com/letthedataconfess/Sentiment-Analysis)
+- [Developing machine learning models on Azure Cloud](https://github.com/letthedataconfess/Machine-learning-model-development-on-Microsoft-Azure)
+
+---
 
 ## Tools, Technologies and Languages:
 ### Programming
