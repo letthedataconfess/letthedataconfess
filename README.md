@@ -16,7 +16,7 @@
 [![Mail Badge](https://img.shields.io/badge/-letthedataconfess-c14438?style=flat&logo=Gmail&logoColor=white&link=info@letthedataconfess.com)](info@letthedataconfess.com)
 
 ---
-
+</br>
 <img align="right" alt="webp" src="https://i.gifer.com/origin/71/711557abfeed55bc0ebc5185168147c6_w200.webp" />
 
 - 🔭 We are currently working on Machine Learning, Data Science, Deep Learning, NLP, CV related projects to bridge the gap between industry    requirements and AI education.
