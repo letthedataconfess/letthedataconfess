@@ -19,12 +19,6 @@
 
 <img align="right" alt="webp" src="https://i.gifer.com/origin/71/711557abfeed55bc0ebc5185168147c6_w200.webp" />
 
-
-
-
-
-
-
 - 🔭 We are currently working on Machine Learning, Data Science, Deep Learning, NLP, CV related projects to bridge the gap between industry    requirements and AI education.
 
 - 💬 Ask us about Implementing hands on projects related to Data Science, Machine Learning, Deep Learining, Computer Vision and NLP
