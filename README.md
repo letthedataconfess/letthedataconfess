@@ -11,9 +11,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Let_The_Data_Confess-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/letthedataconfess)](https://www.linkedin.com/company/letthedataconfess)
 [![Website Badge](https://img.shields.io/badge/-Let_The_Data_Confess-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.letthedataconfess.com/)](https://www.letthedataconfess.com/)
 [![Twitter Badge](https://img.shields.io/badge/-@letdataconfess-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/letdataconfess)](https://twitter.com/letdataconfess)
-[![Instagram Badge](https://img.shields.io/badge/Let_The_Data_Confess-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/letthedataconfess/)
 [![Medium Badge](https://img.shields.io/badge/-Let_The_Data_Confess-black?style=flat&logo=Medium&logoColor=white&labelColor=black&link=https://medium.com/@letthedataconfess)](https://medium.com/@letthedataconfess)
 [![Mail Badge](https://img.shields.io/badge/-letthedataconfess-c14438?style=flat&logo=Gmail&logoColor=white&link=info@letthedataconfess.com)](info@letthedataconfess.com)
+[![Instagram Badge](https://img.shields.io/badge/Let_The_Data_Confess-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/letthedataconfess/)
 
 ---
 </br>
